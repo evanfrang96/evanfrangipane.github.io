@@ -1,3 +1,3 @@
-permalink /about
+permalink: /about
 
 Evan Frangipane
