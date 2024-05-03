@@ -1,1 +1,3 @@
-Evan Frangipane1`
+permalink /about
+
+Evan Frangipane
