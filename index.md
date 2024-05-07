@@ -5,4 +5,4 @@
 layout: home
 ---
 
-![Evan](img/evan1.heif)
+![Evan](/img/evan1.jpg)
