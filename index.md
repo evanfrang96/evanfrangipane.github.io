@@ -5,5 +5,7 @@
 layout: home
 ---
 
+Theoretical physics, statistical analysis, data visualization.
+
 ![Evan](/img/evan1.jpg){: width="250" }
 

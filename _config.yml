@@ -21,8 +21,8 @@
 title: Evan Frangipane's Website
 description: >- # this means to ignore newlines until "baseurl:"
   Evan
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com 
+#baseurl: "" # the subpath of your site, e.g. /blog
+#url: "" # the base hostname & protocol for your site, e.g. http://example.com 
 github_username:  evanfrang96
 
 # Build settings
