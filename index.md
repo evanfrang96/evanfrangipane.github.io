@@ -5,4 +5,5 @@
 layout: home
 ---
 
-![Evan](/img/evan1.jpg)
+![Evan](/img/evan1.jpg){: width="250" }
+
