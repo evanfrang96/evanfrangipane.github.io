@@ -5,7 +5,8 @@ permalink: /projects/
 ---
 Here is where you will find my projects.
 
-You can find my physics papers here: [inspire]. 
+You can find my physics papers here: [INSPIRE][inspire].
+ 
 [inspire]: https://inspirehep.net/authors/1706725  
 
 
