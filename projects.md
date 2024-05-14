@@ -11,7 +11,7 @@ Or click on the images I created for my research to go to the arxiv open access 
 
    <i> Revealing terrestrial-mass primordial black holes with the Nancy Grace Roman Space Telescope </i>
 
-   [![FFP](/img/fdm_bounds_money.jpg){: width="400" }](https://arxiv.org/pdf/2311.00751)
+   [![FFP](/img/fdm_bounds_money.jpg){: width="550" }](https://arxiv.org/pdf/2311.00751)
 
 2. Schematic evaporating Black Hole spacetime discussed in: 
 
