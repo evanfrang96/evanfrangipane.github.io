@@ -27,7 +27,7 @@ Or click on the images I created for my research to go to the arxiv open access 
 
 4. de Sitter hyperboloids glued across a Coleman DeLuccia bubble wall in work soon to appear 
 
-   ![dS](/img/ds_hyperboloid.jpg){: width="400" }
+   ![dS](/img/dS_hyperboloid.jpg){: width="400" }
 
 [inspire]: https://inspirehep.net/authors/1706725  
 
