@@ -3,7 +3,6 @@ layout: page
 title: Projects 
 permalink: /projects/
 ---
-Here is where you will find my projects.
 
 You can find my physics papers here: [INSPIRE][inspire].
 Or click on the images I created for my research to go to the arxiv open access versions.
@@ -26,6 +25,9 @@ Or click on the images I created for my research to go to the arxiv open access 
 
    [![dY](/img/resonance.jpg){: width="700" }](https://arxiv.org/pdf/2110.10711)
 
+4. de Sitter hyperboloids glued across a Coleman DeLuccia bubble wall in work soon to appear 
+
+   ![dS](/img/ds_hyperboloid.jpg){: width="400" }
 
 [inspire]: https://inspirehep.net/authors/1706725  
 
